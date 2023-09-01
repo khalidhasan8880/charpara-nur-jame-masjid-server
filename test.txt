@@ -1,0 +1,9 @@
+I am writing to express my interest in the Front End Development position at  Pintu . I am a passionate junior Front End Development. I am enthusiastic about creating dynamic and responsive web applications and staying updated with the latest industry trends.
+
+I am highly proficient in a range of technologies including React, CSS, Tailwind, Bootstrap,  JWT, and Firebase-Auth & Hosting. I am also comfortable working with JavaScript, MongoDB, ExpressJs, and Stripe. Additionally, I have experience with NextJs, Node Js, and Mongodb Aggregation. I am well-versed in using various tools such as Github, Figma, Surge, Netlify, Vercel, VS Code, NPM, Chrome Devtool, and React Devtool.
+Your requirements & my skillset, make me a strong fit for this role.
+
+If selected, I am ready to contribute my skills to  Pintu . I look forward to discussing the opportunity further with you.
+
+Best regards, 
+Khalid Hasan
